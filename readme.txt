@@ -1,3 +1,5 @@
+Code Reference : https://github.com/academind/react-complete-guide-course-resources/
+
 Section 1 - Getting Started
 1.React JS — Complete Beginner's Guide part1
 
@@ -11,3 +13,20 @@ Section 2 - Javascript Refresher
 8.Array_Methods
 
 Section 3: React Essentials - Components, JSX, Props, State & More
+9.React_Essentials_Guide
+10.essentials-02-its-all-about-components
+11.essentials-04-jsx-and-react-cmp
+12.essentials-05-creating-and-using-a-first-custom-cmp
+13.essentials-07-dynamic-values
+14.essentials-08-dynamic-attributes-and-better-image-asset-loading
+15.essentials-09-cmp-reusability-props
+16.essentials-11-best-practice-project-structure-cmp-in-separate-files
+17.essentials-13-children-prop
+18.essentials-14-reacting-to-events
+19.essentials-15-passing-functions-as-values-to-custom-components
+20.essentials-16-adding-custom-parameters-to-functions
+21.essentials-18-managing-state-and-using-hooks
+22.essentials-19-deriving-and-outputting-data-based-on-state
+23.essentials-20-rendering-content-conditionally
+24.essentials-21-css-styling-and-dynamic-styling
+25.essentials-22-outputting-lists-dynamically
