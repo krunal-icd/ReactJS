@@ -1,4 +1,6 @@
-Code Reference : https://github.com/academind/react-complete-guide-course-resources/
+Code Reference : 
+https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+https://github.com/academind/react-complete-guide-course-resources/
 
 Section 1 - Getting Started
 1.React JS — Complete Beginner's Guide part1
@@ -30,3 +32,5 @@ Section 3: React Essentials - Components, JSX, Props, State & More
 23.essentials-20-rendering-content-conditionally
 24.essentials-21-css-styling-and-dynamic-styling
 25.essentials-22-outputting-lists-dynamically
+
+Section 4: Section 4: React Essentials - Deep Dive
