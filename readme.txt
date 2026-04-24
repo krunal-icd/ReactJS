@@ -32,5 +32,6 @@ Section 3: React Essentials - Components, JSX, Props, State & More
 23.essentials-20-rendering-content-conditionally
 24.essentials-21-css-styling-and-dynamic-styling
 25.essentials-22-outputting-lists-dynamically
+26.React_Essentials_Guide_1
 
 Section 4: Section 4: React Essentials - Deep Dive
