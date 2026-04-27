@@ -35,3 +35,4 @@ Section 3: React Essentials - Components, JSX, Props, State & More
 26.React_Essentials_Guide_1
 
 Section 4: Section 4: React Essentials - Deep Dive
+27.React_Essentials_Deep_Dive_1
