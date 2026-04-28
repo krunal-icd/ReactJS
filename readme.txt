@@ -36,3 +36,22 @@ Section 3: React Essentials - Components, JSX, Props, State & More
 
 Section 4: Section 4: React Essentials - Deep Dive
 27.React_Essentials_Deep_Dive_1
+28.React_Essentials_Deep_Dive_2
+29-essentials-deep-dive-03-jsx-limitation-one-parent-element-react-fragment
+30-essentials-deep-dive-04-identifying-component-split-up-potential
+31-essentials-deep-dive-05-splitting-components-by-feature-and-state
+32-essentials-deep-dive-07-forwarding-props
+33-essentials-deep-dive-08-setting-multiple-slots-for-jsx-code-on-components
+34-essentials-deep-dive-09-choosing-component-types-dynamically
+35-essentials-deep-dive-10-default-prop-values
+36-essentials-deep-dive-12-not-all-content-has-to-go-into-react-components
+37-essentials-deep-dive-16-component-instances-work-in-isolation
+38-essentials-deep-dive-18-updating-state-based-on-old-state
+39-essentials-deep-dive-19-getting-and-using-user-input-and-two-way-binding
+40-essentials-deep-dive-21-updating-object-state-immutably
+41-essentials-deep-dive-22-lifting-the-state-up
+42-essentials-deep-dive-23-avoid-managing-multiple-intersecting-states
+43-essentials-deep-dive-24-avoid-mixing-state-data-during-updates-and-prefer-deriving-state
+44-essentials-deep-dive-25-deriving-state-from-props
+45-essentials-deep-dive-26-sharing-the-same-state-with-multiple-components
+46-essentials-deep-dive-30-lifting-a-computed-value-up
