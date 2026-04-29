@@ -34,7 +34,7 @@ Section 3: React Essentials - Components, JSX, Props, State & More
 25.essentials-22-outputting-lists-dynamically
 26.React_Essentials_Guide_1
 
-Section 4: Section 4: React Essentials - Deep Dive
+Section 4: React Essentials - Deep Dive
 27.React_Essentials_Deep_Dive_1
 28.React_Essentials_Deep_Dive_2
 29-essentials-deep-dive-03-jsx-limitation-one-parent-element-react-fragment
@@ -55,3 +55,14 @@ Section 4: Section 4: React Essentials - Deep Dive
 44-essentials-deep-dive-25-deriving-state-from-props
 45-essentials-deep-dive-26-sharing-the-same-state-with-multiple-components
 46-essentials-deep-dive-30-lifting-a-computed-value-up
+
+Section 6: Styling React Components
+47-react_styling_guide_1
+48-react_styling_guide_2
+49-react_styling_guide_3
+
+Best practice project for practice(Available in reference : https://github.com/academind/react-complete-guide-course-resources/
+)
+- Tic tac game
+- Emi calculator
+- Styling web page using css, tail wind css and styled components package
