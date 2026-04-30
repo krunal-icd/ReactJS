@@ -61,6 +61,11 @@ Section 6: Styling React Components
 48-react_styling_guide_2
 49-react_styling_guide_3
 
+Section 7: Debugging in React Apps
+50-React_Debugging_Guide
+
+Section 8: Working with Refs & Portals
+
 Best practice project for practice(Available in reference : https://github.com/academind/react-complete-guide-course-resources/
 )
 - Tic tac game
