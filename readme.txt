@@ -65,9 +65,12 @@ Section 7: Debugging in React Apps
 50-React_Debugging_Guide
 
 Section 8: Working with Refs & Portals
+51.React_Refs_and_Portals
 
 Best practice project for practice(Available in reference : https://github.com/academind/react-complete-guide-course-resources/
 )
 - Tic tac game
 - Emi calculator
 - Styling web page using css, tail wind css and styled components package
+- Timer Game
+- Project management app
