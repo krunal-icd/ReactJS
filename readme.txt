@@ -111,3 +111,7 @@ Section 25: React Query / Tanstack Query: Handling HTTP Requests With Ease
 
 Section 26: A (Pretty Deep Dive) Introduction to Next.js
 66.A_Deep_Dive_Introduction_to_Next.js
+
+Section 27: React Server Components (RSC) & Server Actions - A Closer Look
+67.React_Server_Components_and_Server_Actions
+
