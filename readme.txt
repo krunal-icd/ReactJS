@@ -67,6 +67,9 @@ Section 7: Debugging in React Apps
 Section 8: Working with Refs & Portals
 51.React_Refs_and_Portals
 
+Section 10: Working with Refs & Portals
+52.React_Context_Api_and_Reducer
+
 Best practice project for practice(Available in reference : https://github.com/academind/react-complete-guide-course-resources/
 )
 - Tic tac game
