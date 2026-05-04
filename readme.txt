@@ -73,6 +73,9 @@ Section 10: Working with Refs & Portals
 Section 11: Handling Side Effects & Working with the useEffect() Hook
 53.React_useEffect_Guide
 
+Section 13: A Look Behind The Scenes Of React & Optimization Techniques
+54.React_Optimization_Guide
+
 Best practice project for practice(Available in reference : https://github.com/academind/react-complete-guide-course-resources/
 )
 - Tic tac game
