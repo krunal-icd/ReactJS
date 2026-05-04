@@ -99,3 +99,6 @@ Section 21: Advanced Redux
 
 Section 22: Building a Multi-Page SPA with React Router
 62.Building_a_Multi_Page_SPA_with_React_Router
+
+Section 23: Adding Authentication To React Apps
+63.Adding_Authentication_To_React_Apps
