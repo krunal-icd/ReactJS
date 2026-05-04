@@ -82,6 +82,9 @@ Section 14: An Alternative Way Of Building Components: Class-based Components
 Section 15: Sending Http Requests (e.g. Connecting to a Database)
 56.React_HTTP_Requests_Guide
 
+Section 16: Building Custom React Hooks
+57.Custom_React_Hooks_Guide
+
 Best practice project for practice(Available in reference : https://github.com/academind/react-complete-guide-course-resources/
 )
 - Tic tac game
