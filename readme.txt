@@ -70,6 +70,9 @@ Section 8: Working with Refs & Portals
 Section 10: Working with Refs & Portals
 52.React_Context_Api_and_Reducer
 
+Section 11: Handling Side Effects & Working with the useEffect() Hook
+53.React_useEffect_Guide
+
 Best practice project for practice(Available in reference : https://github.com/academind/react-complete-guide-course-resources/
 )
 - Tic tac game
