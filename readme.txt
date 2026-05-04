@@ -102,3 +102,6 @@ Section 22: Building a Multi-Page SPA with React Router
 
 Section 23: Adding Authentication To React Apps
 63.Adding_Authentication_To_React_Apps
+
+Section 24: Deploying React Apps
+64.Deploying_React_Apps
