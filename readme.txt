@@ -91,6 +91,9 @@ Section 17: Working with Forms & User Input
 Section 18: Handling Forms via Form Actions
 59.React_Handling_Forms_via_Form_Actions
 
+Section 20: Diving into Redux (An Alternative To The Context API)
+60.Diving_into_Redux
+
 Best practice project for practice(Available in reference : https://github.com/academind/react-complete-guide-course-resources/
 )
 - Tic tac game
