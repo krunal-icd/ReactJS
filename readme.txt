@@ -97,10 +97,5 @@ Section 20: Diving into Redux (An Alternative To The Context API)
 Section 21: Advanced Redux
 61.React_Advanced_Redux
 
-Best practice project for practice(Available in reference : https://github.com/academind/react-complete-guide-course-resources/
-)
-- Tic tac game
-- Emi calculator
-- Styling web page using css, tail wind css and styled components package
-- Timer Game
-- Project management app
+Section 22: Building a Multi-Page SPA with React Router
+62.Building_a_Multi_Page_SPA_with_React_Router
