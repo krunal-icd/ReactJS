@@ -76,6 +76,9 @@ Section 11: Handling Side Effects & Working with the useEffect() Hook
 Section 13: A Look Behind The Scenes Of React & Optimization Techniques
 54.React_Optimization_Guide
 
+Section 14: An Alternative Way Of Building Components: Class-based Components
+55.React_Class_Components_Guide
+
 Best practice project for practice(Available in reference : https://github.com/academind/react-complete-guide-course-resources/
 )
 - Tic tac game
