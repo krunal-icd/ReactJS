@@ -79,6 +79,9 @@ Section 13: A Look Behind The Scenes Of React & Optimization Techniques
 Section 14: An Alternative Way Of Building Components: Class-based Components
 55.React_Class_Components_Guide
 
+Section 15: Sending Http Requests (e.g. Connecting to a Database)
+56.React_HTTP_Requests_Guide
+
 Best practice project for practice(Available in reference : https://github.com/academind/react-complete-guide-course-resources/
 )
 - Tic tac game
