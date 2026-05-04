@@ -115,3 +115,14 @@ Section 26: A (Pretty Deep Dive) Introduction to Next.js
 Section 27: React Server Components (RSC) & Server Actions - A Closer Look
 67.React_Server_Components_and_Server_Actions
 
+Section 28: Animating React Apps
+68.Animating_React_Apps
+
+Section 29: React Patterns & Best Practices
+69.React_Patterns_and_Best_Practices
+
+Section 31: Testing React Apps (Unit Tests)
+70.Testing_React_Apps_Guide
+
+Section 32: React + TypeScript
+71.React_Typescript_Guide
