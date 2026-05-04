@@ -108,3 +108,6 @@ Section 24: Deploying React Apps
 
 Section 25: React Query / Tanstack Query: Handling HTTP Requests With Ease
 65.React_Query_Tanstack_Query
+
+Section 26: A (Pretty Deep Dive) Introduction to Next.js
+66.A_Deep_Dive_Introduction_to_Next.js
