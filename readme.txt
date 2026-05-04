@@ -105,3 +105,6 @@ Section 23: Adding Authentication To React Apps
 
 Section 24: Deploying React Apps
 64.Deploying_React_Apps
+
+Section 25: React Query / Tanstack Query: Handling HTTP Requests With Ease
+65.React_Query_Tanstack_Query
