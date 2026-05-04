@@ -94,6 +94,9 @@ Section 18: Handling Forms via Form Actions
 Section 20: Diving into Redux (An Alternative To The Context API)
 60.Diving_into_Redux
 
+Section 21: Advanced Redux
+61.React_Advanced_Redux
+
 Best practice project for practice(Available in reference : https://github.com/academind/react-complete-guide-course-resources/
 )
 - Tic tac game
